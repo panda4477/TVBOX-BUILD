@@ -1,0 +1,41 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+
+ro.product.brand=TrueIDTV
+ro.product.device=HP4CE-Truevisions
+ro.product.manufacturer=SkyworthDigital
+ro.product.model=SKWAMX5M
+ro.product.name=HP4C00-Truevisions
+
+ro.product.cpu.abilist=armeabi-v7a,armeabi
+ro.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.product.cpu.abilist64=
+
+ro.product.build.date=Wed Dec 25 09:55:03 UTC 2024
+ro.product.build.date.utc=1735120503
+
+ro.product.build.fingerprint=TrueIDTV/HP4C00-Truevisions/HP4CE-Truevisions:14/UKG3.240822.001/168:user/release-keys
+ro.product.build.id=UKG3.240822.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=168
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+
+####################################
+# from out/target/product/HP4CEX5M/obj/PACKAGING/system_build_prop_intermediates/buildinfo.prop
+####################################
+
+ro.product.build.display.id=UKG3.240822.001 24.12.91.77
+ro.product.build.version.preview_sdk=0
+ro.product.build.version.preview_sdk_fingerprint=REL
+ro.product.build.version.codename=REL
+ro.product.build.version.all_codenames=REL
+
+ro.product.build.version.known_codenames=Base,Base11,Cupcake,Donut,Eclair,Eclair01,EclairMr1,Froyo,Gingerbread,GingerbreadMr1,Honeycomb,HoneycombMr1,HoneycombMr2,IceCreamSandwich,IceCreamSandwichMr1,JellyBean,JellyBeanMr1,JellyBeanMr2,KitKat,KitKatWatch,Lollipop,LollipopMr1,Marshmallow,Nougat,NougatMr1,Oreo,OreoMr1,Pie,Q,R,S,Tiramisu,UpsideDownCake
+
+ro.product.build.version.security_patch=2024-10-05
+ro.product.build.version.base_os=
