@@ -19,6 +19,7 @@ Streaming Box 8000
 
 fingerprint GOtv/SEI600GO/HND:10/QTT8.201201.002/1801:user/release-keys
 SoC
-Amlogic S905X2
+
+Amlogic S905X3
 Update title:  גרסה חדשה זמינה
 OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/ac224f215415f23cb846b83cffa1e69f70b2b248.zip
