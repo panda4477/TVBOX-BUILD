@@ -39,8 +39,12 @@ OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/5cabec
 
 
 -----------------------
-
+AIS-PLAYBX V4 
+Update title: A new software version 14.0.24 is now available for installation on your device.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/ac5f85cc673a6979f0a01ed247291f4fed4c536b.zip
 -fingerprint Homatics/SEI600HM/HND:10/QTT8.201201.002/1466:user/release-keys
+
+-----------------------------------------------------------
 SoC
 Amlogic S905X3
 Homatics
