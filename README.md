@@ -33,7 +33,10 @@ mi s905x
 Update title: system update
 OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/5cabec120b0378853b3d89a58c0171ac3e965046.zip
 
-D:\google-ota-prober-master\google-ota-prober-master>
+ Xiaomi/oneday/oneday:12/STTC.230106.001/4536:user/release-keys
+Update title: system update
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/5cabec120b0378853b3d89a58c0171ac3e965046.zip
+
 
 -----------------------
 
