@@ -61,3 +61,14 @@ fingerprint RockTek/SEI804RT/YYJ:14/UKG3.241022.001/2463:user/release-keys
 Update title: New version is available.
 OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/bd346ca7d3225cc593cf35e25cd44d595ff745f7.zip
 
+---------------------------------------------------------
+
+Youin You-Box Android TV 4K
+Amlogic S905X3
+YOUIN/SEI600EN/HND:10/QTT5.200819.003/873:user/release-keys
+Update title: New version is available.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/b1328de1ca58d43cceb6a022136ee5a26a8e77e5.zip
+Code name
+SEI600EN / EN1040K (HND)
+
+----------------------------------------------------------------
