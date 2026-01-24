@@ -50,3 +50,14 @@ Amlogic S905X3
 Homatics
 Update title: The new version is available now
 OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/2580da0a33a66a0b71de6aeca2612de2b8ca7089.zip
+
+---------------------------------------------------------
+Nokia Streaming Box 8010
+Brand
+Nokia
+Model
+Streaming Box 8010
+fingerprint RockTek/SEI804RT/YYJ:14/UKG3.241022.001/2463:user/release-keys
+Update title: New version is available.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/bd346ca7d3225cc593cf35e25cd44d595ff745f7.zip
+
