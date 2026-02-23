@@ -1,0 +1,35 @@
+TRUE V1 HPH07
+Update title: What’s new in version 23.10.20.75 update?
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/33a1fdce020e92c7b307fef3f53424214ab5f036.zip
+OK
+TRUEID T3AMX3
+No OTA URL found for your build. Either Google does not recognize your build fingerprint, or there are no new updates for your device.
+OK
+TRUEID SKWAMX3
+Update title: What’s new in version 24.12.15.42 update?
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/2e341a4caac03a200886bee45467daaec15e95bb.zip
+TRUEID V3
+Update title: What’s new in version 25.01.91.17 update?
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/3ed56d5c559cf332d03c782eb03e7f088f2cbdf3.zip
+OK
+AISPLAYBOX V3
+Update title: A new software update 84711322.0078 is available for your device and is ready to install.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/29fa5760cab39778b4a2b046f42ff4747a190c5a.zip
+AISPLAYBOX v4
+Update title: A new software version 14.0.24 is now available for installation on your device.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/ac5f85cc673a6979f0a01ed247291f4fed4c536b.zip
+Nokia slimbox 8000
+Update title: New SW version is available
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/52782c0413cdea4d36ebb591b31409cbac8b4b2a.zip
+FORMULER/GTV
+Update title: Upgrade Android Q to Android S
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/3f0c8404ea61be05b2b09d5fc2234514d26487bf.zip
+WINBOX/DV8947-KPW
+Update title: The new firmware available
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/4f30359d9a5b2104b856f0a6a48e1f4372907618.zip
+AIS V5 B866Y5
+No OTA URL found for your build. Either Google does not recognize your build fingerprint, or there are no new updates for your device.
+MyRepublic B866V2FAV3_EMR_OTT
+Update title: V90511301.0012 2024 05 15
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/cd57671e007ec545d11387cdd0b4ba81992a0377.zip
+Press any key to continue . . .
