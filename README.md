@@ -72,3 +72,6 @@ Code name
 SEI600EN / EN1040K (HND)
 
 ----------------------------------------------------------------
+onn
+Update title:  Get ready for V3.01.03 of onn Android box.
+OTA URL obtained: https://android.googleapis.com/packages/ota-api/package/0c1e2d313002ba507a25f8d6e088276097d1ed4b.zip
