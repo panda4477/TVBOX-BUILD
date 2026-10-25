@@ -105,3 +105,6 @@ Truevisions/TrueHPH07/TrueHPH07:9/PPR1.180610.011/P2.2.0_20190802:user/release-k
 
 Truevisions/HP4202-Truevisions/HP42F:10/QTT5.200819.003/Q1.0_20230803:user/release-keys
 
+
+MyRepublic/MyRepublic_STB_2024/DV8910-KIM:11/RT/20240812:user/release-key
+
